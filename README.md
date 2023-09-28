@@ -1,0 +1,2 @@
+# Battery_charging_level_indicator_final
+Battery_charging_level_indicator_final
